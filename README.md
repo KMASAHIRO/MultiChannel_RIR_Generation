@@ -1,6 +1,6 @@
 # MultiChannel_RIR_Generation
 
-Source code for "Development of a Microphone Array Room Impulse Response Dataset for Evaluating Multichannel Acoustic Generation (多チャンネル音響生成を評価するためのマイクロフォンアレイ室内インパルス応答データセットの構築)".  
+Source code for "Development of a Microphone Array Room Impulse Response Dataset for Evaluating Multichannel Acoustic Generation ([多チャンネル音響生成を評価するためのマイクロフォンアレイ室内インパルス応答データセットの構築](https://www.jstage.jst.go.jp/article/jsaifpai/128/0/128_40/_pdf/-char/ja))".  
 This source code is based on [Learning Neural Acoustic Fields](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields).
   
 Neural acoustic fields learn from a Room Impulse Response (RIR) dataset and can estimate RIR at arbitrary positions. We extended Neural Acoustic Fields to be able to learn from multichannel RIRs.  
